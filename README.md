@@ -37,7 +37,7 @@ In today's digital world, secure data transmission is critical. This project imp
 | Data Integrity | Encrypted payload |
 
 
-# Architecture
+# 📊 Architecture
 <img width="402" height="861" alt="Screenshot 2026-07-20 045529" src="https://github.com/user-attachments/assets/cb649b83-2f65-4ac7-b0ce-bc030a7b8fa4" />
 
 
